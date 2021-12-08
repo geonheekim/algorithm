@@ -1,6 +1,6 @@
 #This is how to use the mpc_system library.
 
-1. Next is an example.
++ Next is an example.
 
 ```python
 from ctypes import *
@@ -29,4 +29,4 @@ while True:
     
 c_func.mpc_main_exit()
 ```
-1. The result data is {"id": "system", "key": "key_data", "data": "NULL" }.
++ The result data is {"id": "system", "key": "key_data", "data": "NULL" }.
