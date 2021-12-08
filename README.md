@@ -1,3 +1,7 @@
+This is how to use the mpc_system library.
+
+Next is an example.
+
 ```python
 from ctypes import *
 import ctypes
