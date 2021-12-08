@@ -29,3 +29,4 @@ while True:
     
 c_func.mpc_main_exit()
 ```
+The result data is {"id": "system", "key": "key_data", "data": "NULL" }.
