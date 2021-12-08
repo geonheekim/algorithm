@@ -24,7 +24,4 @@ while True:
         print(data)
     
 c_func.mpc_main_exit()
-
-#gdb pdb re
-
-'''
+```
