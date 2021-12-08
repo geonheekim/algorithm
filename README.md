@@ -1,6 +1,4 @@
-# algorithm
-
-'''py
+```python
 from ctypes import *
 import ctypes
 import json
